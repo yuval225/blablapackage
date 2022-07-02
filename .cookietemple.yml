@@ -1,0 +1,18 @@
+cookietemple_version: '1.4.1 # <<COOKIETEMPLE_NO_BUMP>>'
+domain: cli
+language: python
+project_slug: blablapackage
+project_slug_no_hyphen: blablapackage
+template_version: '2.1.1 # <<COOKIETEMPLE_NO_BUMP>>'
+template_handle: cli-python
+github_username: yuval225
+creator_github_username: yuval225
+is_github_repo: true
+is_repo_private: false
+is_github_orga: false
+full_name: Yuval E
+email: yuval22599@gmail.com
+project_name: blablapackage
+project_short_description: bla bla
+version: 0.1.0
+license: unlicence
