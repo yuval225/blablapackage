@@ -1,8 +1,6 @@
 
 def test(txt: str) -> None:
-    """
-    test
-    """
+    """Takes in two numbers, returns their product."""
     print(txt)
 
 
@@ -14,9 +12,7 @@ def test(txt: str) -> None:
 
 
 def bla(zzz):
-    """
-    test2
-    """
+    """Takes in two numbers, returns their product."""
     print('halsdfsal')
 
 
