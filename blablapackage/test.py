@@ -1,4 +1,3 @@
-
 def test(txt: str) -> None:
     """Execute Flake8 on the files in git's index.
 
@@ -18,13 +17,6 @@ def test(txt: str) -> None:
     print(txt)
 
 
-
-
-
-
-
-
-
 def bla(zzz):
     """Execute Flake8 on the files in git's index.
 
@@ -41,10 +33,4 @@ def bla(zzz):
     :returns:
         Total number of errors found during the run.
     """
-    print('halsdfsal')
-
-
-
-
-
-
+    print("halsdfsal")
