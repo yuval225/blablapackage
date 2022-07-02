@@ -1,6 +1,8 @@
-import math
 
 def test(txt: str) -> None:
+    """
+    test
+    """
     print(txt)
 
 
@@ -12,6 +14,9 @@ def test(txt: str) -> None:
 
 
 def bla(zzz):
+    """
+    test2
+    """
     print('halsdfsal')
 
 
